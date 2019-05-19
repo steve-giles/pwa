@@ -1,9 +1,0 @@
-{
-  "name": "Sample PWA",
-  "short_name": "PWA",
-  "lang": "en-US",
-  "start_url": "/pwa/index.html",
-  "display": "standalone",
-  "background_color": "gray",
-  "theme_color": "white"
-}
