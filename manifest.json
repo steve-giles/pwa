@@ -6,7 +6,12 @@
       "src": "/pwa/images/pwa.png",
       "type": "image/png",
       "sizes": "192x192"
-    }
+    },
+    {
+      "src": "/pwa/images/pwa.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    	
   ],	
   "lang": "en-US",
   "start_url": "/pwa/index.html",
