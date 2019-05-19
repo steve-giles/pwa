@@ -1,6 +1,13 @@
 {
   "name": "Sample PWA",
   "short_name": "PWA",
+  "icons": [
+    {
+      "src": "/pwa/images/pwa.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],	
   "lang": "en-US",
   "start_url": "/pwa/index.html",
   "display": "standalone",
